@@ -15,11 +15,11 @@ div section {
 }
 
 #section-2 {
-    background-color: #FFC7B3;
+    background-color: #B3E5FF;
 }
 
 #section-3 {
-    background-color: #C3FF80;
+    background-color: #B3E5FF;
 }
 
 #text > h3 {
@@ -29,4 +29,5 @@ div section {
 #header-nav .navbar-brand {
     position: absolute;
     left: 10px;
+    background-color: #B3E5FF;
 }
